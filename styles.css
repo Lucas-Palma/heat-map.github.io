@@ -5,6 +5,7 @@ html{
   color: white;
   background: linear-gradient(135deg, rgb(0,0,0), rgb(25, 10, 10));
 }
+
 body .d3-tip {
   background-color: rgba(0, 0, 0, 0.706);
   border-radius: 2px;
@@ -26,8 +27,9 @@ section {
   font-size: 13px;
 }
 
-section heading {
+section {
   text-align: center;
+  margin-top: 5rem;
 }
 section svg {
   stroke-width: 1;

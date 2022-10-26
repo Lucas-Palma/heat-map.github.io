@@ -224,4 +224,3 @@ svg
       })
       .on('mouseout', tip.hide);
     }
-
